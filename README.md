@@ -2,7 +2,7 @@
 
 This is a simple Machine Learning project that predicts whether a passenger would survive the Titanic disaster, based on key attributes like age, sex, class, fare, and more.
 
-🔗 **Live App**: [Click to Try the App](https://pranab1234567-titanic-streamlit-app.streamlit.app)
+🔗 **Live App**: [Click to Try the App](https://titanic-app-app-lks4cfdtbmh4ggutlasxyn.streamlit.app/)
 
 ---
 
