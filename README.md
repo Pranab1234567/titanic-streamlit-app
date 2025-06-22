@@ -58,9 +58,10 @@ Copy code
    pip install -r requirements.txt
    streamlit run app.py
 
-##👤 Author
+## 👤 Author
 Pranab Mahalik
 🎓 B.Tech CSE | 🧠 Aspiring ML Engineer
+
 🔗 [LinkedIn](https://www.linkedin.com/in/pranab-mahalik-992106275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 🌟 Show Some Love
